@@ -1,2 +1,2 @@
 # johndoe-portfolio
-no responsiveness🫠..open on desktop
+no responsiveness🫠...open on desktop
